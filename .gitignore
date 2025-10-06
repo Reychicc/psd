@@ -1,0 +1,4 @@
+venv/
+.env
+llama31/
+data/
